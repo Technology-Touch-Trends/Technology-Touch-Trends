@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 Passionate FrontEnd
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - ☁️ I've keen interest in cloud computing.
 - 📝 I regularly write PDF Document about All Projects that are Created and Uploaded on Repository.
